@@ -42,5 +42,6 @@ p {
 
 img[src] {
     padding: 10px;
-    background: rgb(135, 217, 238);
+    background: rgb(135, 217, 238);  background: rgb(135, 217, 238);
+
 }
