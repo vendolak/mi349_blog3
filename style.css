@@ -70,3 +70,9 @@ img[src] {
   padding: 20px;
   margin: 10px;
 }
+
+@media (max-width: 400px) {
+    body {
+        background-color: lightgreen;
+    }
+}
